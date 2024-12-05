@@ -9,4 +9,4 @@ This repository contains the labs and materials from the ECE422 Radio & Microwav
 - [Lab 3: Plane-Earth Reflection and Diffraction](./Lab3)
 
 ## Learn More
-- [Design and Assembly of VHF Radio System with Yagi-Uda Antenna for ISS Communication](https://d-uzun.wixsite.com/deniz-uzun/post/design-and-assembly-of-vhf-radio-system-with-yagi-uda-antenna-for-iss-communication)
+- Project: [Design and Assembly of VHF Radio System with Yagi-Uda Antenna for ISS Communication](https://d-uzun.wixsite.com/deniz-uzun/post/design-and-assembly-of-vhf-radio-system-with-yagi-uda-antenna-for-iss-communication)
